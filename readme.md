@@ -1,0 +1,1 @@
+On this repo I will be practicing the main CSS concepts
